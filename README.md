@@ -15,5 +15,8 @@ ridge observations supporting 'Rapid, buoyancy-driven ice-sheet retreat of hundr
 Users may also be interested in: 
 
 Batchelor, C.L., and Christie, F.D.W. How fast can ice sheets retreat?, Nature, 2023. doi:10.1038/d41586-023-00916-2. 
+
+
 -- 
+
 Frazer Christie, Scott Polar Research Institute, February 2023
