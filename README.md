@@ -19,4 +19,4 @@ Batchelor, C.L., and Christie, F.D.W. How fast can ice sheets retreat?, Nature, 
 
 -- 
 
-Frazer Christie, Scott Polar Research Institute, February 2023
+Frazer Christie, February 2023
